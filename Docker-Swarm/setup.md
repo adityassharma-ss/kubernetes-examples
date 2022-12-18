@@ -6,6 +6,7 @@
 - 4789
 
 2. Install Docker
+
 `sudo apt install docker.io -y`
 
 3. Initialize the cluster
